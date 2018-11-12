@@ -107,3 +107,5 @@ Instructions:
 | 3. | finland | 0.5912866592407227 |
 | 4. | norwegian | 0.5682424902915955  |
 | 5. | denmark | 0.5592893958091736  |
+
+ANSWER: Given the last results, Sweden is more peaceful than Denmark!
